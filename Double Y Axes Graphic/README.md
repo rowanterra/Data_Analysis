@@ -1,5 +1,5 @@
-# Read Me for Double Y Axes Graphic
-The graphics created in this file are for a generic microbiological test looking at how a certain level of chemical impacts the growth of a bacterial strain and the pH. 
+# Double Y Axes Graphic
+The graphics created in this file are for a generic microbiological test looking at how a certain level of chemical impacts the growth of a bacterial community and the pH of the medium they are growing within. These can be easily altered to other conditions. 
 
 ### Prerequisites: 
 - Knoweldge of how to use pip install 
