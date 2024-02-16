@@ -2,7 +2,12 @@
 Various scripts, mostly Python and R, that have helped me make data management and analysis much more bearable.
 
 ### Current Uploads 
-- Line Graph with Double Y Axis 
+- Line Graph with Double Y Axis
+
+#### Planned Uploads 
+- Generic Heatmaps
+- Generic Mathematical Code
+- Plotly Heatmaps with Dropdown Menues for Filtering Samples and Applying Different Math 
 
 ### Not Python savvy?
 Some prerequisites to using these files includes knowing how to pip install packages, use jupyter notebook (suggested), and terminal. Ideally you will know basic Python grammar before using these. If you are starting from scratch, when looking at Python scripts in Jupyter Notebook the naming of DFs, the files you call in, and numbers in green are super easily changed without messing up display. Numbers in green tend to be just altering things like scales, tick spacing, subplot setups, etc. 
