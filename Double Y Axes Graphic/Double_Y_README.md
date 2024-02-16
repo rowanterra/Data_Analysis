@@ -1,4 +1,4 @@
-# Read Me for Double Y Axis Graphic
+# Read Me for Double Y Axes Graphic
 The graphics created in this file are for a generic microbiological test looking at how a certain level of chemical impacts the growth of a bacterial strain and the pH. 
 
 ### Prerequisites: 
