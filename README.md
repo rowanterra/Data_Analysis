@@ -2,11 +2,13 @@
 Various scripts, mostly Python and R, that have helped me make data management and analysis much more bearable.
 
 ### Current Uploads 
-- Line Graph with Double Y Axis
+- Line Graph with Double Y Axes
 
 #### Planned Uploads 
 - Generic Heatmaps
+- PCA and PCoA
 - Generic Mathematical Code
+- Generic Stats Code
 - Plotly Heatmaps with Dropdown Menues for Filtering Samples and Applying Different Math 
 
 ### Not Python savvy?
