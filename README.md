@@ -3,12 +3,11 @@ Various scripts, mostly Python and R, that have helped me make data management a
 
 ### Current Uploads 
 - Line Graph with Double Y Axes
+- General Stats and Math Functions
 
 #### Planned Uploads 
 - Generic Heatmaps
 - PCA and PCoA
-- Generic Mathematical Code
-- Generic Stats Code
 - Plotly Heatmaps with Dropdown Menues for Filtering Samples and Applying Different Math 
 
 ### Citations
