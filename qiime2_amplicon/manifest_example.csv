@@ -1,0 +1,5 @@
+sample-id,absolute-filepath,direction
+DNA_Ext_Control,/Users/rowanterra/Desktop/9_2025_Seq/DNA_Control _R1.fastq.gz,forward
+PCR_Control,/Users/rowanterra/Desktop/9_2025_Seq/PCR_Control_R1.fastq.gz,forward
+Biomining_1,/Users/rowanterra/Desktop/9_2025_Seq/Biomining_1_R1.fastq.gz,forward
+Biomining_2,/Users/rowanterra/Desktop/9_2025_Seq/Biomining_2_R1.fastq.gz,forward
