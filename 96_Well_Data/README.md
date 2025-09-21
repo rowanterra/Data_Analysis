@@ -18,19 +18,20 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 ### Preparation for Analysis
 
-(1) Experimental design template (1 plate): *96_well_experimental_design*
+(1) Experimental design template (1 plate): *96_well_experimental_design.xlsx*
 - required for my mentees to fill out and keep on Box
 
-(2) Example of experimental design template filled out *96_well_experimental_design_example*
+(2) Example of experimental design template filled out *96_well_experimental_design_example.xlsx*
 
-(3) Example of plate reader data *96_well_platereader_data_example*
-- this is the raw file from the machine
+(3) Example of plate reader data *96_well_platereader_data_example.xml*
+- this is the raw file from the machine and is an XML file
 
-(4) Aggregated data template *aggregated_data*
-- This is needed to complete the analysis
+(4) Aggregated data template *aggregated_data.xlsx*
+- This is needed to complete the analysis. Make an XLSX file, not an XML.
 
-(5) Example of aggregated data template *aggregated_data_example*
+(5) Example of aggregated data template *aggregated_data_example.xlsx*
 - Each plate should have it's own aggregated data file. Even if you set up 3 plates with the same conditions, each should have its own file. 
+
 
 ### Analysis Output Examples 
 
