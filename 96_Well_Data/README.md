@@ -18,7 +18,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 
 
-#### If you are someone that I am mentoring, please make sure your data repository in Box includes: 
+## If you are someone that I am mentoring, please make sure your data repository in Box includes: 
 
 (1) Filled out template
 
