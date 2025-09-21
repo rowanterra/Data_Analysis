@@ -5,16 +5,38 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 
 
-## This folder contains the following materials
+## This folder contains the following:
 
-(1) SOP with code to run 
+### Necessary to Run Code 
 
-(2) Template scaffold
+(1) SOP with code to run in jupyter
+- You can download this SOP directly into your data folder and run it directly in jupyter to get outputs. 
 
-(3) Example of a template scaffold filled in 
+(2) Aggregated data template
+- This is the preprocessing template with full data to analyze added
 
-(4) An example graphic output
 
+### Preparation for Analysis
+
+(1) Experimental design template (1 plate): *96_well_experimental_design*
+- required for my mentees to fill out and keep on Box
+
+(2) Example of experimental design template filled out *96_well_experimental_design_example*
+
+(3) Example of plate reader data *96_well_platereader_data_example*
+- this is the raw file from the machine
+
+(4) Aggregated data template *aggregated_data*
+- This is needed to complete the analysis
+
+(5) Example of aggregated data template *aggregated_data_example*
+- Each plate should have it's own aggregated data file. Even if you set up 3 plates with the same conditions, each should have its own file. 
+
+### Analysis Output Examples 
+
+(1) TBD
+
+(2) TBD
 
 
 
