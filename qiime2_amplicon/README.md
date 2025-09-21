@@ -9,4 +9,4 @@
 (3) *Coming Soon Once A Paper Publishes* Example DNA Sequencing Output CSVs
 
 
-## These materials have been designed to be used within a MacOS Apple Silicon system
+### These materials have been designed to be used within a MacOS Apple Silicon system. 
