@@ -1,9 +1,11 @@
 # 96 Well Data Processing
 
-#### Developed to run in Jupyter Lab or Jupyter Notebook. 
+## Developed to run in Jupyter Lab or Jupyter Notebook. 
 Make sure that you have already completed steps under the *Baseline_Installs* folder.
 
-#### This folder contains the following materials
+
+
+## This folder contains the following materials
 
 (1) SOP with code to run 
 
@@ -12,6 +14,8 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 (3) Example of a template scaffold filled in 
 
 (4) An example graphic output
+
+
 
 
 ##### If you are someone that I am mentoring, please make sure your data repository in Box includes: 
