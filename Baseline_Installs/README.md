@@ -1,7 +1,7 @@
 # Baseline Installations Requried for this Repository
 
 ## Workflow 
-#### Download the SOP file in this folder to create a coding environment on your computer and follow the included instructions to download 
+#### Download the SOP file in this folder to create a coding environment on your computer and follow the included instructions.
 
 ### The SOP will help you download
 - Python
