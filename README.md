@@ -3,14 +3,19 @@ Various scripts, mostly Python and R, that have helped me make data management a
 
 ## Suggested Workflow for Experienced Folks
 (1) Select a topic of interest folder
+
 (2) Read the README.md for the folder
+
 (3) Follow the SOP
 
 
 ## Suggested Workflow for Beginners
 (1) Install and download materials in *Baseline_Installs*
+
 (2) Select a topic of interest folder
+
 (3) Read the README.md for the folder
+
 (4) Follow the SOP
 
 
