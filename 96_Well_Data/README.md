@@ -8,8 +8,8 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 ## Main Workflow and Requirements
 
 (1) SOP with code to run in jupyter
-- *SOP_RRT_96Well_DataProcessing*
-- You can download this SOP directly into your data folder and run it directly in jupyter to get outputs. 
+- *SOP_RRT_96_Well*
+- You can download this pynb SOP directly into your data folder and open it directly in jupyter to get outputs. 
 
 (2) Aggregated data template
 - *96_well_aggregated_data.xlsx*
