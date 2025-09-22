@@ -13,7 +13,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 (2) Aggregated data template
 - *aggregated_data.xlsx*
-- This is the preprocessing template with full data to analyze added
+- This is the preprocessing template with full data to analyze added. It should contain your data prior to running the SOP notebook.
 
 
 ## Preparation to Complete Prior to Main Workflow
