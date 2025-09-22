@@ -5,9 +5,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 
 
-## This folder contains the following:
-
-### Necessary to Run Code 
+## Main Workflow and Requirements
 
 (1) SOP with code to run in jupyter
 - *SOP_RRT_96Well_DataProcessing*
@@ -18,7 +16,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 - This is the preprocessing template with full data to analyze added
 
 
-### Preparation for Analysis
+## Preparation to Complete Prior to Main Workflow
 
 (1) Experimental design template (1 plate)
 - *96_well_experimental_design.xlsx*
