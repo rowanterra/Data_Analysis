@@ -19,7 +19,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 ## Preparation to Complete Prior to Main Workflow
 
 (1) Experimental design template (1 plate)
-- *96_well_experimental_design.xlsx*
+- *96_well_experimental_design_template.xlsx*
 - required for my mentees to fill out and keep on Box
 
 (2) Example of experimental design template filled out
@@ -40,9 +40,9 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 
 ### Analysis Output Examples 
 
-(1) TBD
+(1) Graphs by microbe and condition
 
-(2) TBD
+(2) Graphs by condition showcasing all microbes
 
 
 
