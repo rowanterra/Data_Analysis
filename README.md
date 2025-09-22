@@ -21,7 +21,7 @@ Various scripts, mostly Python and R, that have helped me make data management a
 
 ## Citations
 Please cite this repository if you utilize any code from it with the most updated citaiton file format. It is easily accessed on the righthand side of the repository.
-As of 8/2025, the citaiton is: 
+As of 8/2025, the citation is: 
 - Terra, R. (2025). Diverse Data Processing and Visualization (Version 1.1) [Computer software]. https://github.com/rowanterra/Data_Analysis
 
   
