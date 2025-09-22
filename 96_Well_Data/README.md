@@ -12,7 +12,7 @@ Make sure that you have already completed steps under the *Baseline_Installs* fo
 - You can download this SOP directly into your data folder and run it directly in jupyter to get outputs. 
 
 (2) Aggregated data template
-- *aggregated_data.xlsx*
+- *96_well_aggregated_data.xlsx*
 - This is the preprocessing template with full data to analyze added. It should contain your data prior to running the SOP notebook.
 
 
